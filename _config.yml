@@ -4,26 +4,23 @@ description: "Suivi des projets Cofolio et développement — équipe remote"
 theme: minima
 baseurl: ""
 markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-collections:
-  docs:
-    output: true
+# Configuration Pages
+baseurl: ""  # laisser vide pour un dépôt user, sinon "/nom-du-repo"
+url: "https://jgribonvald.github.io"
+permalink: /:path/
 
-defaults:
-  - scope:
-      path: ""
-      type: "docs"
-    values:
-      layout: "page"
+# Exclusions (inutile de publier ça)
+exclude:
+  - .github/
+  - .gitignore
+  - README.md
+  - "*.tar.gz"
+  - tmp/
 
-nav:
-  - title: "Accueil"
-    url: "/"
-  - title: "Guide Projet"
-    url: "/docs/guide-projet"
-  - title: "Wiki"
-    url: "https://github.com/jgribonvald/example-gestion-projet/wiki"
-  - title: "GitHub Project"
-    url: "https://github.com/orgs/jgribonvald/projects/1"
-  - title: "Nextcloud"
-    url: "https://nextcloud.recia.fr.fr"
+# Déploiement GitHub Pages
+github:
+  is_project_page: true
