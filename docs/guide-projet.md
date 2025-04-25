@@ -1,6 +1,6 @@
 
 ---
-title: 📖 Guide de Démarrage — Projet AMOA & Développement
+title: 📖 Guide de Démarrage — Projet Cofolio & Développement
 ---
 
 # 📖 Guide de Démarrage — Projet AMOA & Développement

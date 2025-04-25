@@ -1,6 +1,6 @@
 
-title: "Documentation Projet AMOA"
-description: "Suivi des projets AMOA et développement — équipe remote"
+title: "Documentation Projet Cofolio"
+description: "Suivi des projets Cofolio et développement — équipe remote"
 theme: minima
 baseurl: ""
 markdown: kramdown
@@ -22,8 +22,8 @@ nav:
   - title: "Guide Projet"
     url: "/docs/guide-projet"
   - title: "Wiki"
-    url: "https://github.com/ton-org/ton-projet/wiki"
+    url: "https://github.com/jgribonvald/example-gestion-projet/wiki"
   - title: "GitHub Project"
-    url: "https://github.com/orgs/ton-org/projects/1"
+    url: "https://github.com/orgs/jgribonvald/projects/1"
   - title: "Nextcloud"
-    url: "https://nextcloud.ton-projet.fr"
+    url: "https://nextcloud.recia.fr.fr"
