@@ -8,14 +8,35 @@ title: 📖 Guide de Démarrage — Projet Cofolio & Développement
 ## 📌 Table des matières
 - [Outils utilisés](#outils-utilisés)
 - [Organisation](#organisation)
-  - [User Stories & Tâches](#user-stories--tâches)
-  - [Suivi Agile](#suivi-agile)
-  - [Documentation Projet](#documentation-projet)
-  - [Livrables et Documents contractuels](#livrables-et-documents-contractuels)
-  - [Communication](#communication)
-- [Modèle d'Issue User Story](#modèle-dissue-user-story)
-- [Règles de Conventions](#règles-de-conventions)
-- [Liens utiles](#liens-utiles)
-- [Bon projet à tous 🚀](#bon-projet-à-tous-)
+- [Modèle d'Issue User Story](modele-user-story.md)
+- [Règles de Conventions](conventions.md)
+- [Liens utiles](liens-utiles.md)
 
-... (contenu complet comme fourni plus haut) ...
+## 📌 Outils utilisés
+
+- GitHub pour suivi projet, code et documentation
+- Nextcloud pour documents contractuels et PV
+- RocketChat pour la communication d'équipe
+- Collabora pour édition collaborative
+- Codium pour développement local
+
+## 📌 Organisation
+
+Le projet fonctionne en full remote et méthode Agile Scrum.
+Toutes les spécifications sont formulées en User Stories sous forme d'issues.
+
+## 📌 Modèle d'Issue User Story
+
+Consultez le [Modèle d'Issue User Story](modele-user-story.md)
+
+## 📌 Règles de Conventions
+
+Consultez les [Règles de Conventions](conventions.md)
+
+## 📌 Liens utiles
+
+Consultez les [Liens utiles](liens-utiles.md)
+
+---
+
+Bon projet à tous 🚀

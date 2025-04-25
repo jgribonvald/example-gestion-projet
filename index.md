@@ -13,7 +13,7 @@ Bienvenue sur la documentation du projet Cofolio et développement.
 👉 Retrouvez ici :
 - Le [Guide Projet](/docs/guide-projet)
 - Le [Wiki technique](https://github.com/jgribonvald/example-gestion-projet/wiki)
-- Le [Tableau de bord projet](https://github.com/users/jgribonvald/projects/1)
+- Le [Tableau de bord projet](https://github.com/jgribonvald/example-gestion-projet/projects/1)
 - Les [Documents Nextcloud](https://nextcloud.recia.fr)
 
 Bonne consultation 👌
