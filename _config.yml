@@ -1,0 +1,29 @@
+
+title: "Documentation Projet AMOA"
+description: "Suivi des projets AMOA et développement — équipe remote"
+theme: minima
+baseurl: ""
+markdown: kramdown
+
+collections:
+  docs:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "page"
+
+nav:
+  - title: "Accueil"
+    url: "/"
+  - title: "Guide Projet"
+    url: "/docs/guide-projet"
+  - title: "Wiki"
+    url: "https://github.com/ton-org/ton-projet/wiki"
+  - title: "GitHub Project"
+    url: "https://github.com/orgs/ton-org/projects/1"
+  - title: "Nextcloud"
+    url: "https://nextcloud.ton-projet.fr"
